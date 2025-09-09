@@ -3,6 +3,46 @@
 # 詳細: https://pandoc.org/MANUAL.html#citations
 
 references:
+
+  # 実際
+
+
+  - id: financial_inclusion
+    type: webpage
+    author:
+      - family: Pant
+        given: Bhubanesh
+    title: "Financial Inclusion in Nepal: Policy Review and Prescriptions"
+    URL: https://www.nrb.org.np/contents/uploads/2019/12/2-1.pdf
+    accessed:
+      year: 2025
+      month: 7
+      day: 15
+
+  - id: subnational_adminis
+    type: webpage
+    author:
+      - family: Pant
+        given: Bhubanesh
+    title: "Nepal - Subnational Administrative Boundaries"
+    URL: https://data.humdata.org/dataset/cod-ab-npl
+    accessed:
+      year: 2025
+      month: 7
+      day: 10
+
+  - id: nepal_zipcode
+    type: webpage
+    author:
+      - family: KIEC
+        given: Edu
+    title: "# Nepal’s Zip Code"
+    URL: https://kiec.edu.np/resources/nepals-zip-code
+    accessed:
+      year: 2025
+      month: 6
+      day: 10
+
   # 例: ジャーナル論文
   - id: example2024
     type: article-journal
@@ -32,19 +72,6 @@ references:
     ISBN: "0-201-13447-0"
     issued:
       year: 1984
-
-  # 例: ウェブサイト
-  - id: macfarlane2022
-    type: webpage
-    author:
-      - family: MacFarlane
-        given: John
-    title: "Pandoc User's Guide"
-    URL: https://pandoc.org/MANUAL.html
-    accessed:
-      year: 2022
-      month: 6
-      day: 15
 
   # 例: 書籍の章
   - id: xie2018
