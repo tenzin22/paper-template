@@ -36,12 +36,46 @@ references:
     author:
       - family: KIEC
         given: Edu
-    title: "# Nepal’s Zip Code"
+    title: "Nepal’s Zip Code"
     URL: https://kiec.edu.np/resources/nepals-zip-code
     accessed:
       year: 2025
       month: 6
       day: 10
+
+  - id: thesis_geocoding
+    type: thesis
+    author:
+      - family: 久本
+        given: 空海
+    title: "場所参照表現と位置情報を紐付けるジオコーディングの概観と発展に向けての考察"
+    publisher: 言語処理学会 第29回年次大会 発表論文集
+    genre: 学会
+    issued:
+      year: 2023
+
+  - id: disaster_management
+    type: article-journal
+    author:
+      - family: Mandal
+        given: Debayan
+      - family: Lin
+        given: Binbin
+    title: "Visualizing and Evaluating the Geocoding Uncertainty in Social Sensing for Disaster Management"
+    DOI: "10.5194/ica-abs-3-192-2021"
+    issued:
+      year: 2021
+
+  - id: digital_lalitpur
+    type: article-journal
+    author:
+      - family: Poudel
+        given: Krishna
+    title: "Digital Addressing of Historical City Morphology: The Case of Lalitpur City in Kathmandu Valley, Nepal"
+    DOI: "10.1007/978-981-15-5608-1_21"
+    issued:
+      year: 2020
+
 
   # 例: ジャーナル論文
   - id: example2024
