@@ -5,7 +5,17 @@
 references:
 
   # 実際
-
+  - id: macfarlane2022
+    type: webpage
+    author:
+      - family: MacFarlane
+        given: John
+    title: "Pandoc User's Guide"
+    URL: https://pandoc.org/MANUAL.html
+    accessed:
+      year: 2025
+      month: 6
+      day: 15
 
   - id: financial_inclusion
     type: webpage
@@ -75,6 +85,17 @@ references:
     DOI: "10.1007/978-981-15-5608-1_21"
     issued:
       year: 2020
+
+  - id: digital_nepal
+    type: article-journal
+    author:
+      - family: Poudel
+        given: Sujan Sharma
+    title: "Digital Nepal in Numbers and Narratives: Reviewing Connectivity Through a Digital Anthropology Lens"
+    DOI: "10.5281/zenodo.16723665"
+    issued:
+      year: 2025
+
 
 
   # 例: ジャーナル論文
